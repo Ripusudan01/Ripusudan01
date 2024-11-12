@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripusudan01&label=Profile%20views&color=0e75b6&style=flat" alt="ripusudan01" /> </p>
 
-- 🌱 I’m currently learning **Data Science & ML**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python, Web Development, ML**
 
