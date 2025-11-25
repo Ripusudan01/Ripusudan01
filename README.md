@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://Ripusudan01.io)
 <h1 align="center">Hi 👋, I'm Ripusudan Jha</h1>
 <h3 align="center">Undergraduate student specializing in Data Science at IIT Madras</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
